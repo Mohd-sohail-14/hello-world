@@ -9,7 +9,7 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     
      <label for="FatherName"><b>Father Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
     
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
